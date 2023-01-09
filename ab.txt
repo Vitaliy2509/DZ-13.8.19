@@ -1,0 +1,9 @@
+11print(file)Let's imagine ..
+22.You're watching TV. It's a hot evening:
+33 You feel thirsty. You see an advert for
+44 a refreshing drink. You see people looking
+55cool and relaxed. You notice the name
+66of the refreshing drink7because you think it could 
+77  be useful for you to satisfy your thirst.
+Маринка малинка, самая лучшаяМаринка хочет роллы
+
